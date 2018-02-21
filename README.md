@@ -43,3 +43,21 @@
   
   ## Acknowledgements
   This work is supported in part by MathWorks under the Development-Collaboration Research Grant
+
+## Contact
+
+  * Miead Tehrani-Moayyed, Ph.D. Candidate  
+  Dept. of Electrical and Computer Engineering  
+  Northeastern University  
+  tehranimoayyed.m@husky.neu.edu  
+  
+  * Bogdan Antonescu, Ph.D. Candidate  
+  Dept. of Electrical and Computer Engineering  
+  Northeastern University  
+  antonescu.b@husky.neu.edu  
+  
+  * Stefano Basagni, Ph.D.  
+  Associate Professor of Computer Engineering  
+  Dept. of Electrical and Computer Engineering  
+  Northeastern University  
+  basagni@ece.neu.edu  
